@@ -14,4 +14,4 @@ This project predicts stock market trends based on sentiment analysis of Reddit 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-sentiment-analysis.git
+   git clone https://github.com/sowjanya0816/Reddit-Stock-Analysis.git
